@@ -21,3 +21,4 @@ button3=browser.find_element_by_class_name("sprite-global-icon-magnifier-dark").
 time.sleep(2)
 browser.execute_script('window.scrollBy(0,3000)')
 time.sleep(1)
+
